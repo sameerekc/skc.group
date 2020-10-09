@@ -4,7 +4,10 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+
 /* Reset Code */
+
 body {
     padding: 0;
     margin: 0;
@@ -90,8 +93,12 @@ a:hover {
     outline: none
 }
 
+
 /* //Reset Code */
+
+
 /* bottom-to-top */
+
 #toTop {
     display: none;
     text-decoration: none;
@@ -118,8 +125,12 @@ a:hover {
     filter: alpha(opacity=0);
 }
 
+
 /* //bottom-to-top */
+
+
 /* header */
+
 .mian-content {
     position: relative;
 }
@@ -130,7 +141,9 @@ header {
     width: 100%;
 }
 
+
 /* logo */
+
 a.navbar-brand {
     font-size: 36px;
     letter-spacing: 1px;
@@ -149,8 +162,12 @@ a.navbar-brand img {
     vertical-align: bottom;
 }
 
+
 /* //logo */
+
+
 /* navigation */
+
 nav.navbar.navbar-expand-lg.navbar-light {
     padding: 1em 10em;
 }
@@ -179,9 +196,15 @@ li.nav-item {
     color: #ff3f4d;
 }
 
+
 /* //navigation */
+
+
 /* //header */
+
+
 /* banner */
+
 .mian-content {
     background: url(../images/s5.JPG) no-repeat top;
     background-size: cover;
@@ -193,14 +216,20 @@ li.nav-item {
     position: relative;
 }
 
+
 /* particles */
+
 #particles-js {
     width: 100%;
     height: 100%;
 }
 
+
 /* //particles */
+
+
 /* banner text effect */
+
 .effect-text-w3ls {
     position: absolute;
     top: 54%;
@@ -235,18 +264,20 @@ li.nav-item {
     0% {
         color: #fff;
     }
-
     30% {
         letter-spacing: 25px;
     }
-
     85% {
         letter-spacing: 8px;
     }
 }
 
+
 /* //banner text effect */
+
+
 /* animation effect text */
+
 .effect-text-w3ls h2 {
     color: #191919;
     font-size: 29px;
@@ -266,13 +297,17 @@ li.nav-item {
     }
 }
 
+
 /* //animation effect text */
+
 p.para-style {
     font-size: 18px;
     max-width: 700px;
 }
 
+
 /* button effect */
+
 .button-w3ls {
     margin-top: 3em;
 }
@@ -322,7 +357,9 @@ a.animated-button.thar-three:hover:before {
     width: 100%;
 }
 
+
 /* thar four */
+
 a.animated-button.thar-four:hover:before {
     right: 0%;
     left: auto;
@@ -342,11 +379,17 @@ a.animated-button.thar-four {
 a.animated-button.thar-four:before {
     background: #343a40;
 }
+
 a.animated-button.thar-four.two-buttons:hover {
     background: #1ccacd;
 }
+
+
 /* //banner */
+
+
 /* banner bottom */
+
 h3.title-wthree span {
     display: block;
     font-size: 16px;
@@ -354,8 +397,12 @@ h3.title-wthree span {
     letter-spacing: 1px;
 }
 
+
 /* //banner bottom */
+
+
 /* services */
+
 .why-choose-agile {
     background: url(../images/s6.JPG) no-repeat center;
     background-size: cover;
@@ -411,9 +458,15 @@ p.sub-tittle {
     transition: 0.5s all;
 }
 
+
 /* //services */
+
+
 /* skills */
+
+
 /* chart */
+
 #chartdiv {
     margin: -.5em auto;
     text-align: center;
@@ -421,7 +474,9 @@ p.sub-tittle {
     height: 390px
 }
 
+
 /* //chart */
+
 .border-styles,
 .title-edu {
     border-left: 3px solid #1ccacd;
@@ -434,8 +489,12 @@ p.counter {
     text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.09);
 }
 
+
 /* //skills */
+
+
 /*-- clients --*/
+
 .w3_testimonials_grid h4 {
     font-size: 17px;
     line-height: 1.8;
@@ -456,8 +515,12 @@ p.counter {
     font-size: 20px;
 }
 
+
 /*-- //clients --*/
+
+
 /* facts */
+
 .mobile-trend-agile {
     background: url(../images/image-asset.png) no-repeat center;
     background-size: cover;
@@ -468,8 +531,12 @@ p.counter {
     min-height: 800px;
 }
 
+
 /* //facts */
+
+
 /* projects */
+
 .da-thumbs {
     list-style: none;
     position: relative;
@@ -524,13 +591,19 @@ p.counter {
     margin-bottom: 1em;
 }
 
+
 /* //projects */
+
+
 /* footer */
+
 .w3l-footer-logo a {
     color: #1ccacd;
 }
 
+
 /* copyright */
+
 p.copy-right-grids {
     font-size: 16px;
     letter-spacing: 2px;
@@ -540,8 +613,12 @@ p.copy-right-grids a {
     color: #ff3f4d;
 }
 
+
 /* //copyright */
+
+
 /* social-icons */
+
 .w3social-icons ul li {
     display: inline-block;
 }
@@ -566,8 +643,12 @@ p.copy-right-grids a {
     box-shadow: 0px 0px 13px 2px #1ccacd;
 }
 
+
 /* //social-icons */
+
+
 /* footer nav */
+
 ul.footer-nav-wthree li {
     display: inline-block;
 }
@@ -578,8 +659,12 @@ ul.footer-nav-wthree li a {
     font-size: 18px;
 }
 
+
 /* //footer nav */
+
+
 /* education */
+
 .info-w3layouts {
     background: url(../images/s3.JPG) no-repeat bottom;
     background-size: cover;
@@ -619,8 +704,12 @@ ul.footer-nav-wthree li a {
     color: #eaeaea;
 }
 
+
 /* //education */
+
+
 /* awards */
+
 .awards-w3ls {
     background: url(../images/sameer.jpg) no-repeat bottom;
     background-size: cover;
@@ -635,11 +724,17 @@ ul.footer-nav-wthree li a {
     box-shadow: 0 0 18px rgba(0, 0, 0, 0.18);
 }
 
+
 /* //awards */
+
+
 /* inner page */
+
+
 /* contact */
+
 .mian-content-2 {
-    background: url(../images/1.jpg) no-repeat 0px -96px;
+    background: url(../images/sameer.jpg) no-repeat 0px -96px;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -657,7 +752,9 @@ h2.font-w3ls-style {
     transform: rotate(-24deg);
 }
 
+
 /* contact form */
+
 .main_grid_contact {
     background: #f7f7f7;
     padding: 6em;
@@ -712,8 +809,12 @@ h2.font-w3ls-style {
     background: #343a40;
 }
 
+
 /* //contact form */
+
+
 /* map */
+
 .map {
     padding: 0;
 }
@@ -724,8 +825,12 @@ h2.font-w3ls-style {
     height: 100%;
 }
 
+
 /* //map */
+
+
 /* contact address */
+
 .address-grid i {
     font-size: 1.5em;
     color: #fff;
@@ -753,10 +858,18 @@ h2.font-w3ls-style {
     text-shadow: 0 1px 2px rgba(18, 18, 19, 0.13);
 }
 
+
 /* //contact address */
+
+
 /* //contact */
+
+
 /* //inner page */
+
+
 /* responsive */
+
 @media(max-width: 1680px) {
     h2.font-w3ls-style {
         padding-top: 3.2%;
@@ -773,27 +886,21 @@ h2.font-w3ls-style {
     .mytext1 {
         font-size: 60px;
     }
-
     .effect-text-w3ls h2 {
         font-size: 25px;
     }
-
     .mytext2 {
         font-size: 46px
     }
-
     p.para-style {
         font-size: 17px;
     }
-
     .effect-text-w3ls {
         left: 50%;
     }
-
     a.animated-button {
         width: 150px;
     }
-
     h2.font-w3ls-style {
         padding-top: 5.2%;
         padding-left: 8em;
@@ -804,13 +911,11 @@ h2.font-w3ls-style {
     .mytext1 {
         font-size: 54px;
     }
-
     h2.font-w3ls-style {
         padding-top: 3.2%;
         padding-left: 7em;
         font-size: 40px;
     }
-
     .mian-content-2 {
         min-height: 310px;
     }
@@ -820,7 +925,6 @@ h2.font-w3ls-style {
     nav.navbar.navbar-expand-lg.navbar-light {
         padding: 1em 5em;
     }
-
     .main_grid_contact {
         padding: 3em;
     }
@@ -830,72 +934,56 @@ h2.font-w3ls-style {
     nav.navbar.navbar-expand-lg.navbar-light {
         padding: 1em 4em;
     }
-
     a.navbar-brand {
         font-size: 34px;
         letter-spacing: 0px;
     }
-
     .navbar-light .navbar-nav .nav-link {
         font-size: 16px;
     }
-
     .effect-text-w3ls h2 {
         font-size: 23px;
     }
-
     .mytext1 {
         font-size: 48px;
     }
-
     .mytext2 {
         font-size: 38px;
     }
-
     .mian-content {
         min-height: 56vw;
     }
-
     .effect-text-w3ls {
         top: 58%;
     }
-
     .services-agile-1 {
         padding-left: 0;
         padding-right: .5em;
     }
-
     .agile-why-text h4 {
         letter-spacing: 0px;
         font-size: 26px;
     }
-
     .wthree_features_grid i {
         line-height: 1;
     }
-
     .style-book-wthree i {
         font-size: 6em;
     }
-
     .w3_testimonials_grid h4 {
         font-size: 16px;
     }
-
     ul.footer-nav-wthree li a {
         font-size: 17px;
     }
-
     h2.font-w3ls-style {
         padding-top: 7.2%;
         padding-left: 6em;
         font-size: 36px;
     }
-
     .mian-content-2 {
         background-position: 0px -33px;
     }
-
     .main_grid_contact h4 {
         font-size: 1.8em;
     }
@@ -907,7 +995,6 @@ h2.font-w3ls-style {
     nav.navbar.navbar-expand-lg.navbar-light {
         padding: 1em 2em;
     }
-
     .mian-content {
         min-height: 60vw;
     }
@@ -918,49 +1005,39 @@ h2.font-w3ls-style {
         background: rgba(0, 0, 0, 0.91);
         padding: 1.5em;
     }
-
     li.nav-item {
         margin: 10px 0;
     }
-
     .navbar-light .navbar-nav .nav-link {
         font-weight: normal;
         padding: 0;
     }
-
     .navbar-light .navbar-toggler {
         border-color: #fff;
         border-radius: 0px;
         background: #fff;
     }
-
     .effect-text-w3ls {
         top: 56%;
         left: 46%;
     }
-
     @keyframes text {
         0% {
             color: #fff;
         }
-
         30% {
             letter-spacing: 20px;
         }
-
         85% {
             letter-spacing: 8px;
         }
     }
-
     .wthree_features_grid i {
         line-height: 1.8;
     }
-
     .mobile-trend-agile {
         min-height: 690px;
     }
-
     .map iframe {
         height: 340px;
     }
@@ -970,15 +1047,12 @@ h2.font-w3ls-style {
     h3.title-wthree {
         font-size: 32px;
     }
-
     h3.title-wthree span {
         font-size: 14px;
     }
-
     .mian-content-2 {
         min-height: 260px;
     }
-
     h2.font-w3ls-style {
         font-size: 31px;
     }
@@ -988,53 +1062,41 @@ h2.font-w3ls-style {
     .mian-content {
         min-height: 66vw;
     }
-
     a.navbar-brand {
         font-size: 32px;
     }
-
     .effect-text-w3ls h2 {
         font-size: 21px;
     }
-
     .mytext1 {
         font-size: 44px;
     }
-
     .mytext2 {
         font-size: 36px;
     }
-
     p.para-style {
         font-size: 15px;
     }
-
     .effect-text-w3ls {
         top: 58%;
         left: 50%;
     }
-
     a.animated-button {
         width: 140px;
         font-size: 15px;
     }
-
     .button-w3ls {
         margin-top: 2em;
     }
-
     p {
         font-size: 15px;
     }
-
     .mobile-trend-agile {
         min-height: 580px;
     }
-
     h2.font-w3ls-style {
         padding-top: 10.2%;
     }
-
     .mian-content-2 {
         min-height: 230px;
     }
@@ -1046,60 +1108,47 @@ h2.font-w3ls-style {
     .effect-text-w3ls h2 {
         font-size: 20px;
     }
-
     .mytext1 {
         font-size: 38px;
     }
-
     .mytext2 {
         font-size: 32px;
     }
-
     .effect-text-w3ls {
         top: 57%;
         left: 43%;
     }
-
     @keyframes text {
         0% {
             color: #fff;
         }
-
         30% {
             letter-spacing: 10px;
         }
-
         85% {
             letter-spacing: 6px;
         }
     }
-
     .wthree_features_grid i {
         line-height: 1;
         font-size: 28px;
     }
-
     .agile-why-text h4 {
         letter-spacing: 1px;
         font-size: 25px;
     }
-
     p.counter {
         font-size: 2.8em;
     }
-
     #chartdiv {
         height: 330px;
     }
-
     .da-thumbs li {
         width: 49.6%;
     }
-
     .da-thumbs li a div h5 {
         font-size: 19px;
     }
-
     p.copy-right-grids {
         font-size: 15px;
     }
@@ -1117,11 +1166,9 @@ h2.font-w3ls-style {
         top: 57%;
         left: 46%;
     }
-
     #chartdiv {
         height: 290px;
     }
-
     h3.title-wthree {
         font-size: 30px;
     }
@@ -1132,15 +1179,12 @@ h2.font-w3ls-style {
         min-height: 470px;
         background-position: right;
     }
-
     .effect-text-w3ls {
         left: 50%;
     }
-
     .mian-content-2 {
         background-position: 0px -1px;
     }
-
     h2.font-w3ls-style {
         padding-top: 13.2%;
         padding-left: 4em;
@@ -1152,25 +1196,20 @@ h2.font-w3ls-style {
     .services-agile-1 {
         padding: 0 4em;
     }
-
     .wthree_features_grid i {
         line-height: 1.4;
     }
-
     p.counter {
         font-size: 2.5em;
     }
-
     .mobile-trend-agile {
         min-height: 488px;
     }
-
     h2.font-w3ls-style {
         padding-top: 13.2%;
         padding-left: 3em;
         font-size: 27px;
     }
-
     .mian-content-2 {
         min-height: 210px;
     }
@@ -1180,56 +1219,44 @@ h2.font-w3ls-style {
     a.navbar-brand {
         font-size: 28px;
     }
-
     button.navbar-toggler {
         padding: 2px 8px;
     }
-
     nav.navbar.navbar-expand-lg.navbar-light {
         padding: .5em 1em;
     }
-
     .effect-text-w3ls h2 {
         font-size: 18px;
     }
-
     .mytext1 {
         font-size: 34px;
     }
-
     .mytext2 {
         font-size: 28px;
     }
-
     p.para-style {
         font-size: 14px;
     }
-
     a.animated-button {
         width: 128px;
         font-size: 15px;
         padding: 11px 0;
         letter-spacing: 1px;
     }
-
     .mian-content {
         min-height: 408px;
     }
-
     .services-agile-1 {
         padding: 0 3em;
     }
-
     #chartdiv {
         height: 250px;
     }
-
     h2.font-w3ls-style {
         padding-top: 9.2%;
         padding-left: 0em;
         font-size: 26px;
     }
-
     .mian-content-2 {
         min-height: 190px;
     }
@@ -1239,69 +1266,54 @@ h2.font-w3ls-style {
     p.copy-right-grids {
         font-size: 14px;
     }
-
     ul.footer-nav-wthree li a {
         font-size: 16px;
     }
-
     .da-thumbs li {
         width: 100%;
     }
-
     p.counter {
         font-size: 2.3em;
     }
-
     h3.title-style {
         font-size: 25px;
     }
-
     .services-agile-1 {
         padding: 0 2em;
     }
-
     .mian-content {
         min-height: 430px;
     }
-
     @keyframes text {
         0% {
             color: #fff;
         }
-
         30% {
             letter-spacing: 8px;
         }
-
         85% {
             letter-spacing: 4px;
         }
     }
-
     h2.font-w3ls-style {
         padding-top: 11.2%;
         padding-left: 0em;
         font-size: 23px;
     }
-
     .map iframe {
         height: 300px;
     }
-
     .main_grid_contact {
         padding: 2em;
     }
-
     .main_grid_contact label {
         font-size: 1em;
     }
-
     .main_grid_contact input[type="text"],
     .main_grid_contact input[type="email"],
     .main_grid_contact textarea {
         padding: 12px 15px;
     }
-
     .main_grid_contact .input-group1 input[type="submit"] {
         padding: 14px 0;
         font-size: 15px;
@@ -1312,46 +1324,36 @@ h2.font-w3ls-style {
     .services-agile-1 {
         padding: 0 1em;
     }
-
     @keyframes text {
         0% {
             color: #fff;
         }
-
         30% {
             letter-spacing: 6px;
         }
-
         85% {
             letter-spacing: 4px;
         }
     }
-
     #chartdiv {
         height: 200px;
     }
-
     .grid-flex {
         padding: 2em !important;
     }
-
     .title-edu i,
     .w3_agileits_services_grid i {
         font-size: 1.5em;
     }
-
     .title-edu {
         margin-bottom: 2em !important;
     }
-
     .style-book-wthree i {
         font-size: 5em;
     }
-
     .w3_testimonials_grid h4 {
         font-size: 15px;
     }
-
     .mobile-trend-agile {
         min-height: 526px;
     }
@@ -1361,51 +1363,40 @@ h2.font-w3ls-style {
     .grids-agiles-one h5 {
         font-size: 19px;
     }
-
     .w3_testimonials_grid h5 {
         font-size: 19px;
     }
-
     h3.title-wthree {
         font-size: 26px;
     }
-
     @keyframes text {
         0% {
             color: #fff;
         }
-
         30% {
             letter-spacing: 4px;
         }
-
         85% {
             letter-spacing: 2px;
         }
     }
-
     .wthree_features_grid i {
         line-height: 1;
     }
-
     #chartdiv {
         height: 170px;
     }
-
     ul.footer-nav-wthree li {
         margin-right: 14px !important;
     }
-
     ul.footer-nav-wthree li a {
         font-size: 15px;
     }
-
     h2.font-w3ls-style {
         padding-top: 11.2%;
         padding-left: 0em;
         font-size: 21px;
     }
-
     .mian-content-2 {
         min-height: 166px;
     }
@@ -1415,15 +1406,12 @@ h2.font-w3ls-style {
     .grids-agiles-one h5 {
         font-size: 18px;
     }
-
     .w3_testimonials_grid h4 {
         font-size: 14px;
     }
-
     p {
         font-size: 14px;
     }
-
     p.copy-right-grids {
         letter-spacing: 1px;
     }
@@ -1433,132 +1421,105 @@ h2.font-w3ls-style {
     a.navbar-brand {
         font-size: 26px;
     }
-
     button.navbar-toggler {
         padding: 1px 6px;
     }
-
     .effect-text-w3ls h2 {
         font-size: 16px;
     }
-
     .mytext1 {
         font-size: 30px;
         letter-spacing: 1px;
     }
-
     .mytext2 {
         font-size: 26px;
     }
-
     p.para-style {
         font-size: 13px;
         margin-top: .5em !important;
     }
-
     a.animated-button {
         width: 118px;
         font-size: 14px;
         padding: 10px 0;
     }
-
     .button-w3ls {
         margin-top: 1.2em;
     }
-
     .mian-content {
         min-height: 378px;
     }
-
     .agile-why-text h4 {
         letter-spacing: 1px;
         font-size: 22px;
     }
-
     .col-lg-3.col-sm-2.col-3.pr-lg-2 {
         padding: 0 .5em;
     }
-
     p.counter {
         font-size: 2em;
     }
-
     .grids-agiles-one h5 {
         font-size: 16px;
     }
-
     .grid-flex {
         padding: 1.5em 1em !important;
     }
-
     .right-text-agiles {
         padding: 0;
     }
-
     h3.title-wthree {
         font-size: 24px;
     }
-
     .mobile-trend-agile {
         min-height: 460px;
     }
-
     .w3social-icons ul li a {
         font-size: 15px;
         width: 35px;
         height: 35px;
     }
-
     @keyframes text {
         0% {
             color: #fff;
         }
-
         30% {
             letter-spacing: 2px;
         }
-
         85% {
             letter-spacing: 1px;
         }
     }
-
     .main_grid_contact textarea {
         min-height: 9em;
     }
-
     .main_grid_contact .input-group1 input[type="submit"] {
         padding: 12px 0;
     }
-
     .main_grid_contact h4 {
         font-size: 1.5em;
     }
-
     .address-grid i {
         font-size: 1.2em;
         width: 60px;
         height: 60px;
         line-height: 3.2em;
     }
-
     .address-left {
         padding: 0;
     }
-
     .mian-content-2 {
         min-height: 140px;
     }
-
     h2.font-w3ls-style {
         padding-top: 13%;
         padding-left: 0em;
         font-size: 16px;
     }
-
     .main_grid_contact {
         padding: 2em 1em;
     }
 }
+
 
 /* //responsive */
